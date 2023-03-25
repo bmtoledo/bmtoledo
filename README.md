@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hey! I'm Bruna Maria, but you can call me Buma
 
-<!--
-**bmtoledo/bmtoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for a job / working with front-end projects
+- 🌱 I’m currently learning React.js
+- ⚡ Fun fact: I prefer Squirtle as my starter Pokémon. No, my nickname isn't Buma because of Bulma from Dragon Ball. 🤣
+<div>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=bmtoledo&show_icons=true&theme=buefy&hide_border=true" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmtoledo&layout=compact&theme=buefy&hide_border=true" />
+</div>
+<div style="display: inline-block"><br>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+<div style="display: inline-block"><br>
+<a href="mailto:bm.toledo94@gmail.com"><img width="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="www.linkedin.com/in/bruna-maria-toledo"><img width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
