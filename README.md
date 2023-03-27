@@ -1,7 +1,7 @@
 ## Hey! I'm Bruna Maria, but you can call me Buma
 
 
-- 🔭 I’m currently looking for a job / working with front-end projects
+- 🔭 I’m currently working as intern @ Alumia
 - 🌱 I’m currently learning React.js
 - ⚡ Fun fact: I prefer Squirtle as my starter Pokémon. No, my nickname isn't Buma because of Bulma from Dragon Ball. 🤣
 <div>
